@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+h1{
+    color: green;
+}
+
+p{
+    color: rosybrown
+}
+
+.title {
+    color:black
+}
+#hobbies{
+    color:blue
+}
+
+#photo{
+     width: 400px;
+     height: 200px;
+}
+
+* {
+ margin: 0 auto
+}
+
+
+
+
+ 
